@@ -1,3 +1,6 @@
+---
+title: Tiago Paolini's projects
+---
 Welcome to the site of [Tiago Becerra Paolini](https://github.com/tbpaolini) on GitHub!
 
 Currently, this page is intentionally kept minimal. But a personal blog might be coming here at some point.
